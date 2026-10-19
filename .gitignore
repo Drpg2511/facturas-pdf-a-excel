@@ -1,0 +1,5 @@
+salida/
+*.xlsx
+__pycache__/
+*.pyc
+_demo_readme.md
